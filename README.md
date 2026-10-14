@@ -1,5 +1,7 @@
 # OpenBulkUrl
 
+[Link](https://jef-king.github.io/OpenBulkUrl/)
+
 OpenBulkUrl is a lightweight web app that helps you paste multiple website links and open them in bulk with one click.
 
 ## What it does
